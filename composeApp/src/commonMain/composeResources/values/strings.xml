@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_show_photo_detail">Zobrazit detail fotky</string>
+    <string name="home_content">Zde můžeš sledovat růst tvého mimiinka měsíc po měsíci. Každý měsíc zadej forku a pak si prohlížej, jak se mění!</string>
+    <string name="home_title">Podívej se na fotku tvé Anežky ve třech měsících,</string>
+    <string name="home_error">Problém pri načítavaní obrázku</string>
+</resources>
